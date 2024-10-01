@@ -1,0 +1,5 @@
+2024-08-29 14:51:22 - __main__ - ERROR - Error decoding JSON from file tasks.json: Expecting ',' delimiter: line 7 column 31 (char 147)
+2024-08-29 14:51:22 - __main__ - INFO - Tasks saved to file.
+2024-08-29 15:14:24 - __main__ - INFO - Task file does not exist. Creating a new one.
+2024-08-29 15:14:24 - __main__ - INFO - Tasks saved to file.
+2024-08-29 15:15:55 - __main__ - INFO - Listed all tasks.
